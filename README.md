@@ -3,7 +3,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@piyuminichathurangi](https://medium.com/@piyuminichathurangi)
 
-- 📫 How to reach me **piyuminichathurangi@gamil.com**
+- 📫 How to reach me **piyuminichathurangi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
