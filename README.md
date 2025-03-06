@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyumini Chathurangi</h1>
-<h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
+<h3 align="center">A passionate Software Quality Assurance Enthusiast from Sri Lanka</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@piyuminichathurangi](https://medium.com/@piyuminichathurangi)
 
